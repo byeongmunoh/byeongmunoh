@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=OhByeongMun%20Repository&fontSize=60" />
 <h3><img
-    src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=white"
-  />&nbspSparkPostTech Stack<img
-    src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=white"
+    src="https://img.shields.io/badge/SparkPost-000000?style=flat-square&logo=SparkPost&logoColor=white"
+  />&nbspTech Stack<img
+    src="https://img.shields.io/badge/SparkPost-000000?style=flat-square&logo=SparkPost&logoColor=white"
   /></h3>
 <p align="center">
   <img
