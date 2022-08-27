@@ -1,6 +1,7 @@
 ## Dev : Service Programmer
 
 :pushpin:프론트, 백엔드 모든 포지션을 선호하고, 블록체인 기술에 관심이 많은 프로그래머입니다.
+:collision:기술 블로그 : https://develop-obm.tistory.com:collision:
 
 ## Stack
 
