@@ -5,7 +5,7 @@
 ## Stack
 
 <h3 align="center">💡Tech that i can use skillfully💡</h3>
-
+<br/>
 <p align="center">
   <img
     src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=white"
@@ -28,5 +28,6 @@
   />&nbsp<img
     src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=PHP&logoColor=white"
   />
-</p><br/>
+</p>
+<br/>
 <h3 align="center">💡Tech that i`ve used at least once💡</h3>
