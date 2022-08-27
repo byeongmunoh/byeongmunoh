@@ -35,8 +35,6 @@
     src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=white"
   />&nbsp<img
     src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=Web3.js&logoColor=white"
-  />&nbsp<img
-    src="https://img.shields.io/badge/styled-components-000000?style=flat-square&logo=styled-components&logoColor=white"
   />
 </p>
 <h3 align="center">:dvd:DataBase Tech Stack:dvd:</h3>
@@ -87,5 +85,7 @@
     src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=Postman&logoColor=white"
   />&nbsp<img
     src="https://img.shields.io/badge/IPFS-000000?style=flat-square&logo=IPFS&logoColor=white"
-  />&nbsp
+  />&nbsp<img
+    src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=Firebase&logoColor=white"
+  />
 </p>
