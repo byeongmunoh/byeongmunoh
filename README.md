@@ -57,3 +57,25 @@
     src="https://img.shields.io/badge/Amazon S3-000000?style=flat-square&logo=Amazon S3&logoColor=white"
   />
 </p>
+<h3 align="center">:flashlight:Tools:flashlight:</h3>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Visual Studio Code-000000?style=flat-square&logo=Visual Studio Code&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/GitLab-000000?style=flat-square&logo=GitLab&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/Jira Software-000000?style=flat-square&logo=Jira Software&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/Confluence-000000?style=flat-square&logo=Confluence&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/Slack-000000?style=flat-square&logo=Slack&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/Sourcetree-000000?style=flat-square&logo=Sourcetree&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/GitKraken-000000?style=flat-square&logo=GitKraken&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/Android Studio-000000?style=flat-square&logo=Android Studio&logoColor=white"
+  />&nbsp
+</p>
