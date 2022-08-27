@@ -73,9 +73,13 @@
     src="https://img.shields.io/badge/Slack-000000?style=flat-square&logo=Slack&logoColor=white"
   />&nbsp<img
     src="https://img.shields.io/badge/Sourcetree-000000?style=flat-square&logo=Sourcetree&logoColor=white"
-  />&nbsp<img
+  /><br/><img
     src="https://img.shields.io/badge/GitKraken-000000?style=flat-square&logo=GitKraken&logoColor=white"
   />&nbsp<img
     src="https://img.shields.io/badge/Android Studio-000000?style=flat-square&logo=Android Studio&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/FileZilla-000000?style=flat-square&logo=FileZilla&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=Postman&logoColor=white"
   />&nbsp
 </p>
