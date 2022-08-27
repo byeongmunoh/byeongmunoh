@@ -4,7 +4,7 @@
 
 ## Stack
 
-<h3 align="center">💡Back Tech Stack💡</h3>
+<h3 align="center">:mortar_board:Back Tech Stack💡</h3>
 <br/>
 <p align="center">
   <img
