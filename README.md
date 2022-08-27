@@ -33,6 +33,8 @@
     src="https://img.shields.io/badge/Amazon RDS-000000?style=flat-square&logo=Amazon RDS&logoColor=white"
   />&nbsp<img
     src="https://img.shields.io/badge/Amazon S3-000000?style=flat-square&logo=Amazon S3&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=white"
   />
 </p>
 <br/>
