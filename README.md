@@ -1,6 +1,7 @@
-<--<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=OhByeongMun%20Repository&fontSize=60" />-->
 ## AlpoxDev : Service Programmer
-어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는데 관심이 많은 프로그래머입니다. 
+
+어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는데 관심이 많은 프로그래머입니다.
+
 <p align="center">
   <img
     src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=white"
