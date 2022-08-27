@@ -18,6 +18,8 @@
   />&nbsp<img
     src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
   />&nbsp<img
+    src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=white"
+  />&nbsp<img
     src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white"
   />&nbsp<img
     src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=white"
