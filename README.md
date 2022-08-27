@@ -37,7 +37,7 @@
     src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=Web3.js&logoColor=white"
   />
 </p>
-<h3 align="center">💡DataBase Tech Stack💡</h3>
+<h3 align="center">:dvd:DataBase Tech Stack:dvd:</h3>
 <p align="center">
   <img
     src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white"
@@ -47,7 +47,7 @@
     src="https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=MariaDB&logoColor=white"
   />
 </p>
-<h3 align="center">💡Ect Tech Stack💡</h3>
+<h3 align="center">:page_facing_up:Ect Tech Stack:page_facing_up:</h3>
 <p align="center">
   <img
     src="https://img.shields.io/badge/Amazon AWS-000000?style=flat-square&logo=Amazon AWS&logoColor=white"
