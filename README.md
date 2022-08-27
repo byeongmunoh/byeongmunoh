@@ -4,10 +4,10 @@
 :collision:기술 블로그 : https://develop-obm.tistory.com :collision:
 #
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/byeongmunoh/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byeongmunoh&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/byeongmunoh/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byeongmunoh&repo=convoychat" />
 </a>
 ## Stack
