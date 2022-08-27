@@ -7,4 +7,8 @@
   src="https://img.shields.io/badge/Laravel-FF0000?style=flat-square&logo=Laravel&logoColor=white"
 /><img
   src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js&logoColor=white"
+/><img
+  src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
+/><img
+  src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white"
 />
