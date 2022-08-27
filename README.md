@@ -1,10 +1,10 @@
 ## Dev : Service Programmer
 
-프론트, 백엔드 모든 포지션을 선호하고, 블록체인 기술에 관심이 많은 프로그래머입니다.
+:pushpin:프론트, 백엔드 모든 포지션을 선호하고, 블록체인 기술에 관심이 많은 프로그래머입니다.
 
 ## Stack
 
-<h3 align="center">:mortar_board:Back Tech Stack💡</h3>
+<h3 align="center">:mortar_board:Back Tech Stack:mortar_board:</h3>
 <br/>
 <p align="center">
   <img
