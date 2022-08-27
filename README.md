@@ -27,8 +27,5 @@
   />&nbsp<img
     src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=PHP&logoColor=white"
   />
-</P>
-
-<p align="center">
   <h3>Tech that i`ve used at least once</h3>
 </P>
