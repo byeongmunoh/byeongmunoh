@@ -5,3 +5,6 @@
 <img
   src="https://img.shields.io/badge/React-0054FF?style=flat-square&logo=React&logoColor=white"
 />
+<img
+  src="https://img.shields.io/badge/Laravel-0054FF?style=flat-square&logo=Laravel&logoColor=white"
+/>
