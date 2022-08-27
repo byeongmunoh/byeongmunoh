@@ -4,9 +4,12 @@
 :collision:기술 블로그 : https://develop-obm.tistory.com :collision:
 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongmunoh)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongmunoh&layout=compact&theme=tokyonight)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byeongmunoh&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byeongmunoh&repo=convoychat" />
+</a>
 ## Stack
 
 <h3 align="center">:mortar_board:Back Tech Stack:mortar_board:</h3>
