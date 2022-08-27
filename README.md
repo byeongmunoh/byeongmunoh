@@ -33,7 +33,7 @@
     src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=white"
   />&nbsp<img
     src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=white"
-  /><img
+  />&nbsp<img
     src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=Web3.js&logoColor=white"
   />
 </p>
