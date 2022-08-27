@@ -17,7 +17,6 @@
     src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=PHP&logoColor=white"
   />
 </p>
-<br/>
 <h3 align="center">💡Front Tech Stack💡</h3>
 <p align="center">
   <img
