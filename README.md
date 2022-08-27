@@ -35,6 +35,8 @@
     src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=white"
   />&nbsp<img
     src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=Web3.js&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/styled-components-000000?style=flat-square&logo=styled-components&logoColor=white"
   />
 </p>
 <h3 align="center">:dvd:DataBase Tech Stack:dvd:</h3>
@@ -55,6 +57,8 @@
     src="https://img.shields.io/badge/Amazon RDS-000000?style=flat-square&logo=Amazon RDS&logoColor=white"
   />&nbsp<img
     src="https://img.shields.io/badge/Amazon S3-000000?style=flat-square&logo=Amazon S3&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/Amazon EC2-000000?style=flat-square&logo=Amazon EC2&logoColor=white"
   />
 </p>
 <h3 align="center">:flashlight:Tools:flashlight:</h3>
@@ -81,5 +85,7 @@
     src="https://img.shields.io/badge/FileZilla-000000?style=flat-square&logo=FileZilla&logoColor=white"
   />&nbsp<img
     src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=Postman&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/IPFS-000000?style=flat-square&logo=IPFS&logoColor=white"
   />&nbsp
 </p>
