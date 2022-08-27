@@ -17,7 +17,7 @@
     src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=PHP&logoColor=white"
   />
 </p>
-<h3 align="center">💡Front Tech Stack💡</h3>
+<h3 align="center">:floppy_disk:Front Tech Stack:floppy_disk:</h3>
 <p align="center">
   <img
     src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=white"
