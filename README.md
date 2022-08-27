@@ -87,5 +87,9 @@
     src="https://img.shields.io/badge/IPFS-000000?style=flat-square&logo=IPFS&logoColor=white"
   />&nbsp<img
     src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=Firebase&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/VirtualBox-000000?style=flat-square&logo=VirtualBox&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/NGINX-000000?style=flat-square&logo=NGINX&logoColor=white"
   />
 </p>
