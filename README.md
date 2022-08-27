@@ -27,6 +27,12 @@
     src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=Web3.js&logoColor=white"
   />&nbsp<img
     src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=PHP&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/Amazon AWS-000000?style=flat-square&logo=Amazon AWS&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/Amazon RDS-000000?style=flat-square&logo=Amazon RDS&logoColor=white"
+  />&nbsp<img
+    src="https://img.shields.io/badge/Amazon S3-000000?style=flat-square&logo=Amazon S3&logoColor=white"
   />
 </p>
 <br/>
