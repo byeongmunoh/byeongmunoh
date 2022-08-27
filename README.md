@@ -4,9 +4,8 @@
 :collision:기술 블로그 : https://develop-obm.tistory.com :collision:
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongmunoh&show_icons=true&theme=radical)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byeongmunoh&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=byeongmunoh&show_icons=true&theme=radical" />
 </a>
 
 ## Stack
