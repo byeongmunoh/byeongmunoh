@@ -4,10 +4,11 @@
 :collision:기술 블로그 : https://develop-obm.tistory.com :collision:
 #
 
-<div align="center"> 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongmunoh)](https://github.com/byeongmunoh/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongmunoh&layout=compact)](https://github.com/byeongmunoh/github-readme-stats)
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongmunoh)](https://github.com/byeongmunoh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongmunoh&layout=compact)](https://github.com/byeongmunoh/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=byeongmunoh)](https://solved.ac/byeongmunoh)<br/>
+
 
 ## Stack
 
