@@ -3,8 +3,9 @@
 프론트, 백엔드 모든 포지션을 선호하고, 블록체인 기술에 관심이 많은 프로그래머입니다.
 
 ## Stack
-
-<h3 style="text-align:center">Tech that i can use skillfully</h3>
+<p align="center">
+<h3>Tech that i can use skillfully</h3>
+</p>
 <p align="center">
   <img
     src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=white"
@@ -27,5 +28,5 @@
   />&nbsp<img
     src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=PHP&logoColor=white"
   />
-</P>
+</p>
 <h3>Tech that i`ve used at least once</h3>
