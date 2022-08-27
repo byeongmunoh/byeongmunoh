@@ -4,7 +4,7 @@
 
 ## Stack
 
-<h3 align="center">Tech that i can use skillfully</h3>
+<h3 align="center">💡Tech that i can use skillfully💡</h3>
 
 <p align="center">
   <img
@@ -28,5 +28,5 @@
   />&nbsp<img
     src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=PHP&logoColor=white"
   />
-</p>
-<h3 align="center">Tech that i`ve used at least once</h3>
+</p><br/>
+<h3 align="center">💡Tech that i`ve used at least once💡</h3>
